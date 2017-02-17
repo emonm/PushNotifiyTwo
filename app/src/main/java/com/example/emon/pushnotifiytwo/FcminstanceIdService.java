@@ -20,4 +20,9 @@ public class FcminstanceIdService extends FirebaseInstanceIdService {
         editor.putString(getString(R.string.FCM_TOKEN),recent_token);
         editor.commit();
     }
+    public void man(){
+        int i=0;
+        int a=i;
+        i=a;
+    }
 }
